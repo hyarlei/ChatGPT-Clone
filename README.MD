@@ -50,7 +50,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/hyarlei/Webdevelop/tree/main/Projetos/ChatGPT
+$ git clone https://github.com/hyarlei/ChatGPT-Clone
 
 # Install dependencies
 $ npm install
